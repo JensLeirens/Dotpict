@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/GameFragment"
+            android:title="New canvas" />
+        <item
+            android:id="@+id/drawings"
+            android:title="Drawings" />
+
+        <item
+            android:id="@+id/drawingsNetwork"
+            android:title="Online Drawings" />
+    </group>
+
+</menu>
